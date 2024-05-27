@@ -1,0 +1,1012 @@
+[{
+  "_id": {
+    "$oid": "663efdf31300bd9a670fd35d"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772878/ipas/jyl9s16vygfz26l5z6gb.mp3",
+  "Description": "Tên gọi khác: âm e dài.\n\nCách phát âm: kéo dài âm “i”, âm phát từ trong khoang miệng chứ không thổi hơi ra.\n\nKhẩu hình miệng: Môi mở rộng hai bên như đang mỉm cười, lưỡi nâng cao lên.",
+  "Examples": [
+    {
+      "Phonetic": "/siː/",
+      "Word": "Sea"
+    },
+    {
+      "Phonetic": "/ɡriːn/",
+      "Word": "Green"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/ipozofegzqdldjywssjg.png",
+  "MouthShape": "Môi mở rộng hai bên như đang mỉm cười, lưỡi nâng cao lên. ",
+  "Phonetic": "i:",
+  "Title": "Nguyên âm ngắn /i:/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482913/ipas/pdg7uvsozhaslr2yp7sk.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f6d3f747ba979b4287af1"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Tên gọi khác: âm i ngắn.\n\nCách phát âm: giống âm “i” của tiếng Việt nhưng ngắn hơn, bật nhanh.\n\nKhẩu hình miệng: Môi hơi mở sang hai bên, lưỡi hạ thấp.",
+  "Examples": [
+    {
+      "Phonetic": "/hiz/",
+      "Word": "his"
+    },
+    {
+      "Phonetic": "/kɪd/",
+      "Word": "kid"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/jwgzlmirxtf5z0fnmuw8.png",
+  "MouthShape": "Môi hơi mở sang hai bên, lưỡi hạ thấp.",
+  "Phonetic": "ɪ",
+  "Title": "Nguyên âm ngắn /ɪ/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482888/ipaVideo/gtezbrikkybyrntbyyyl.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f6ed7747ba979b4287af2"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482488/ipas/e_adzmvt.mp3",
+  "Description": "Tên gọi khác: âm e ngắn.\n\nCách phát âm: giống âm “e” của tiếng Việt nhưng cách phát âm ngắn hơn.\n\nKhẩu hình miệng: Môi mở rộng sang hai bên rộng hơn so với âm /ɪ/, lưỡi hạ thấp hơn âm /ɪ/.",
+  "Examples": [
+    {
+      "Phonetic": "/bed/",
+      "Word": "bed"
+    },
+    {
+      "Phonetic": "/hed/",
+      "Word": "head"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/seohv0smrfo0ayncfwho.png",
+  "MouthShape": "Môi mở rộng sang hai bên rộng hơn so với âm /ɪ/, lưỡi hạ thấp hơn âm /ɪ/",
+  "Phonetic": "e",
+  "Title": "Nguyên âm ngắn /e/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482743/ipaVideo/esig1vmcvzz1zu3ldlkd.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7140747ba979b4287af3"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482822/ipas/mzzgkkcsecqn3sk9mdvx.mp3",
+  "Description": "Tên gọi khác: âm ơ ngắn.\n\nCách phát âm: giống âm “ơ” tiếng Việt nhưng ngắn và nhẹ hơn.\n\nKhẩu hình miệng: Môi hơi mở rộng, lưỡi thả lỏng.",
+  "Examples": [
+    {
+      "Phonetic": "/bəˈnɑːnə/",
+      "Word": "banana"
+    },
+    {
+      "Phonetic": "/ˈdɒktə(r)/",
+      "Word": "doctor"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/seohv0smrfo0ayncfwho.png",
+  "MouthShape": "Môi hơi mở rộng, lưỡi thả lỏng.",
+  "Phonetic": "ə",
+  "Title": "Nguyên âm ngắn /ə/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482792/ipaVideo/jfm37ognn4exknbto0km.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f718e747ba979b4287af4"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483046/ipas/tuu5v4d743kgxv5r7aur.mp3",
+  "Description": "Tên gọi khác: âm ơ dài.\n\nCách phát âm: đọc là âm ơ nhưng cong lưỡi. Người học hãy phát âm /ə/ rồi cong lưỡi lên, phát âm từ trong khoang miệng.\n\nKhẩu hình miệng: Môi hơi mở rộng, lưỡi cong lên, lưỡi chạm vào vòm miệng khi kết thúc âm.",
+  "Examples": [
+    {
+      "Phonetic": "/bɜːn/",
+      "Word": "burn"
+    },
+    {
+      "Phonetic": "/ˈbɜːθdeɪ/",
+      "Word": "birthday "
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/zrfvviuwb3ise0rexouf.png",
+  "MouthShape": "Môi hơi mở rộng, lưỡi cong lên, lưỡi chạm vào vòm miệng khi kết thúc âm.",
+  "Phonetic": "ɜ:",
+  "Title": "Nguyên âm ngắn /ɜ:/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483065/ipaVideo/slfe3lxxh87nqqe2gcm9.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f71d5747ba979b4287af5"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483129/ipas/iepjp99xx6mu2r3f2lmm.mp3",
+  "Description": "Cách phát âm: khá giống âm ư của tiếng Việt. Khi phát âm, không dùng môi mà đẩy hơi rất ngắn từ cổ họng.\n\nKhẩu hình miệng: Môi hơi tròn, lưỡi hạ thấp.",
+  "Examples": [
+    {
+      "Phonetic": "/ɡʊd/",
+      "Word": "good"
+    },
+    {
+      "Phonetic": "/pʊt/",
+      "Word": "put"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/zd6fylnxujhmbsvzciv4.png",
+  "MouthShape": "Môi hơi tròn, lưỡi hạ thấp.",
+  "Phonetic": "ʊ",
+  "Title": "Nguyên âm ngắn /ʊ/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483141/ipaVideo/zrzouye716ihjqzxwfo3.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7266747ba979b4287af6"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483218/ipas/bjbkkohowlli3bxqvnsp.mp3",
+  "Description": "Tên gọi khác: âm u dài.\n\nCách phát âm: âm phát ra từ khoang miệng nhưng không thổi hơi ra, kéo dài âm u ngắn.\n\nKhẩu hình miệng: Môi tròn, lưỡi nâng cao lên.",
+  "Examples": [
+    {
+      "Phonetic": "/ɡuːs/",
+      "Word": "goose"
+    },
+    {
+      "Phonetic": "/sku:l/",
+      "Word": "school"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/zfmg6e2dsgioprh3p07c.png",
+  "MouthShape": "Môi tròn, lưỡi nâng cao lên.",
+  "Phonetic": "u:",
+  "Title": "Nguyên âm ngắn /u:/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483233/ipaVideo/fyv1rp7fbs7t39zgnwy7.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7300747ba979b4287af7"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483263/ipas/u26cs2temdndzcrq46je.mp3",
+  "Description": "Tên gọi khác: âm o ngắn.\n\nCách phát âm: tương tự âm “o” tiếng Việt nhưng phát âm ngắn hơn.\n\nKhẩu hình miệng: Môi hơi tròn, lưỡi hạ thấp.",
+  "Examples": [
+    {
+      "Phonetic": "/hot/",
+      "Word": "hot"
+    },
+    {
+      "Phonetic": "/bɒks/",
+      "Word": "box"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/upc27glttrnzfzfp437t.png",
+  "MouthShape": "Môi hơi tròn, lưỡi hạ thấp.",
+  "Phonetic": "ɒ",
+  "Title": "Nguyên âm ngắn /ɒ/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483640/ipaVideo/wtwltivzfmiii4tohxim.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7303747ba979b4287af8"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483294/ipas/hhg64gfm8z9uxsgvcptz.mp3",
+  "Description": "Cách phát âm: như âm “o” tiếng Việt nhưng rồi cong lưỡi lên, không phát âm từ khoang miệng.\n\nKhẩu hình miệng: Tròn môi, lưỡi cong lên chạm vào vòm miệng khi kết thúc âm.",
+  "Examples": [
+    {
+      "Phonetic": "/bɔːl/",
+      "Word": "ball"
+    },
+    {
+      "Phonetic": "/lɔː/",
+      "Word": "law"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/bqcuencap6eod7l8hopj.png",
+  "MouthShape": "Tròn môi, lưỡi cong lên chạm vào vòm miệng khi kết thúc âm.",
+  "Phonetic": "ɔ:",
+  "Title": "Nguyên âm ngắn /ɔ:/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483692/ipaVideo/uzmvc1golf6etpmp8k8g.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7305747ba979b4287af9"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483313/ipas/gdlpetqteidbdqil2dww.mp3",
+  "Description": "Cách phát âm: lai giữa âm “ă” và âm “ơ” của tiếng Việt, na ná âm “ă” hơn. Phát âm phải bật hơi ra.\n\nKhẩu hình miệng: miệng thu hẹp lại, lưỡi hơi nâng lên cao.",
+  "Examples": [
+    {
+      "Phonetic": "/kʌm/",
+      "Word": "come"
+    },
+    {
+      "Phonetic": "/lʌv/",
+      "Word": "love"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/rjw5cosw5dpneddpvn91.png",
+  "MouthShape": "miệng thu hẹp lại, lưỡi hơi nâng lên cao.",
+  "Phonetic": "ʌ",
+  "Title": "Nguyên âm ngắn /ʌ/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483758/ipaVideo/cf9yde7kaii9r2lvfjh5.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7307747ba979b4287afa"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483333/ipas/yalsjp8xpvjjotflysbj.mp3",
+  "Description": "Cách phát âm: âm “a” đọc kéo dài, âm phát ra từ khoang miệng.\n\nKhẩu hình miệng: Môi mở rộng, lưỡi hạ thấp.",
+  "Examples": [
+    {
+      "Phonetic": "/stɑːt/",
+      "Word": "start"
+    },
+    {
+      "Phonetic": "/ˈfɑːðə(r)/",
+      "Word": "father"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/w5ndybqjds63fojma19z.png",
+  "MouthShape": "Môi mở rộng, lưỡi hạ thấp.",
+  "Phonetic": "ɑ:",
+  "Title": "Nguyên âm ngắn /ɑ:/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483833/ipaVideo/j3ux2st1b73m31gxgna3.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7309747ba979b4287afb"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483364/ipas/fdvzpnf2sjabfvi11wtk.mp3",
+  "Description": "Cách phát âm: âm “a” bẹt, hơi giống âm “a” và “e”, âm có cảm giác bị nén xuống.\n\nKhẩu hình miệng: Miệng mở rộng, môi dưới hạ thấp xuống. Lưỡi hạ rất thấp.",
+  "Examples": [
+    {
+      "Phonetic": "/træp/",
+      "Word": "trap"
+    },
+    {
+      "Phonetic": "/bæd/",
+      "Word": "bad"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/kybzbfacdr5tlojohfsb.png",
+  "MouthShape": "Miệng mở rộng, môi dưới hạ thấp xuống. Lưỡi hạ rất thấp.",
+  "Phonetic": "æ",
+  "Title": "Nguyên âm ngắn /æ/",
+  "Type": "Vowels",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483839/ipaVideo/q0f2tkj2wsaq1orkwzyl.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7938747ba979b4287afc"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483383/ipas/ae8injzr1c0wwybuxpc7.mp3",
+  "Description": "Cách phát âm: Phát âm chuyển từ âm /ʊ/ rồi dần sang âm /ə/.\n\nKhẩu hình miệng: Môi mở rộng dần nhưng không rộng quá. Lưỡi đẩy dần ra về phía trước.",
+  "Examples": [
+    {
+      "Phonetic": "/nɪə(r)/",
+      "Word": "near"
+    },
+    {
+      "Phonetic": "/hɪə(r)/",
+      "Word": "here"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/jecmhfapv0bpg8gmwjbu.png",
+  "MouthShape": "Môi mở rộng dần nhưng không rộng quá. Lưỡi đẩy dần ra về phía trước.",
+  "Phonetic": "ɪə",
+  "Title": "Nguyên âm dài /ɪə/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483932/ipaVideo/etrol2vx3gpaaqxapwf4.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79b0747ba979b4287afd"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483400/ipas/gpxpte4kdinfhxw80opw.mp3",
+  "Description": "Cách phát âm: đọc âm /e/ rồi chuyển dần sang âm /ə/.\n\nKhẩu hình miệng: Môi hơi thu hẹp, lưỡi thụt dần về phía sau.",
+  "Examples": [
+    {
+      "Phonetic": "/heə(r)/",
+      "Word": "hair"
+    },
+    {
+      "Phonetic": "/peə(r)/",
+      "Word": "pair"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/x9qdbrluxbtoh3ay1tuq.png",
+  "MouthShape": "Môi hơi thu hẹp, lưỡi thụt dần về phía sau.",
+  "Phonetic": "eə",
+  "Title": "Nguyên âm dài /eə/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483972/ipaVideo/gl4gndqlq1lvncb7o1yf.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79ba747ba979b4287afe"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483436/ipas/a9yabuhcdhalsjdh7hxv.mp3",
+  "Description": "Cách phát âm: đọc âm /e/ rồi chuyển dần sang âm /ɪ/.\n\nKhẩu hình miệng: Môi dẹt dần sang hai bên, lưỡi hướng dần lên trên.",
+  "Examples": [
+    {
+      "Phonetic": "/feɪs/",
+      "Word": "face"
+    },
+    {
+      "Phonetic": "/deɪ/",
+      "Word": "day"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/utpzfz0bjlxrduag4dlz.png",
+  "MouthShape": "Môi dẹt dần sang hai bên, lưỡi hướng dần lên trên.",
+  "Phonetic": "eɪ",
+  "Title": "Nguyên âm dài /eɪ/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715482629/ipaVideo/vrzfk4sepppuybn1qif4.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79ca747ba979b4287b00"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483459/ipas/zmvmy68ad6pddnfau7wy.mp3",
+  "Description": "Cách phát âm: đọc âm /ɔ:/ rồi chuyển dần sang âm /ɪ/.\n\nKhẩu hình miệng: Môi dẹt dần sang hai bên, lưỡi nâng lên và đẩy dần về phía trước.",
+  "Examples": [
+    {
+      "Phonetic": "/tʃɔɪs/",
+      "Word": "choice"
+    },
+    {
+      "Phonetic": "/bɔɪ/",
+      "Word": "boy"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/pjnymgdeo1llyx3k0w8b.png",
+  "MouthShape": "Môi dẹt dần sang hai bên, lưỡi nâng lên và đẩy dần về phía trước.",
+  "Phonetic": "ɔɪ",
+  "Title": "Nguyên âm dài /ɔɪ/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715484069/ipaVideo/g1a1puljnc8seowjojqs.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79cd747ba979b4287b01"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483498/ipas/gqz46q6gzufql2kbvjxn.mp3",
+  "Description": "Cách phát âm: đọc âm /ɑ:/ rồi chuyển dần sang âm /ɪ/.\n\nKhẩu hình miệng: Môi dẹt dần sang hai bên. Lưỡi nâng lên và hơi đẩy dần về trước.",
+  "Examples": [
+    {
+      "Phonetic": "/naɪs/",
+      "Word": "nice"
+    },
+    {
+      "Phonetic": "/traɪ/",
+      "Word": "try"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/btgvlgxopcsau9lhdku6.png",
+  "MouthShape": "Môi dẹt dần sang hai bên. Lưỡi nâng lên và hơi đẩy dần về trước.",
+  "Phonetic": "aɪ",
+  "Title": "Nguyên âm dài /aɪ/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715484098/ipaVideo/m2zip2ouxnbhpyashdsf.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79d1747ba979b4287b02"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483529/ipas/fti2ds8we09jg5zuvabt.mp3",
+  "Description": "Cách phát âm: đọc âm /ə/ rồi chuyển dần sang âm /ʊ/.\n\nKhẩu hình miệng: Môi từ hơi mở đến hơi tròn, lưỡi lùi dần về phía sau.",
+  "Examples": [
+    {
+      "Phonetic": "/ɡəʊt/",
+      "Word": "goat"
+    },
+    {
+      "Phonetic": "/ʃəʊ/",
+      "Word": "show"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/sqvri4nexdxio2tku0fg.png",
+  "MouthShape": "Môi từ hơi mở đến hơi tròn, lưỡi lùi dần về phía sau.",
+  "Phonetic": "əʊ",
+  "Title": "Nguyên âm dài /əʊ/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715484156/ipaVideo/wxeklolo7ejzseo7qfbv.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79d5747ba979b4287b03"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483545/ipas/jbsaekzbs4vb35d7ormg.mp3",
+  "Description": "Cách phát âm: đọc âm /ɑ:/ rồi chuyển dần sang âm /ʊ/.\n\nKhẩu hình miệng: Môi tròn dần, lưỡi hơi thụt về phía sau.",
+  "Examples": [
+    {
+      "Phonetic": "/maʊθ/",
+      "Word": "mouth"
+    },
+    {
+      "Phonetic": "/kaʊ/",
+      "Word": "cow"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/dboleo1rxafssodfcihz.png",
+  "MouthShape": "Môi tròn dần, lưỡi hơi thụt về phía sau.",
+  "Phonetic": "aʊ",
+  "Title": "Nguyên âm dài /aʊ/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715484214/ipaVideo/rv4fzzr1jsfzw8xf40hx.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f79da747ba979b4287b04"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715483565/ipas/tgjdtdlwhxmfqgr3ctym.mp3",
+  "Description": "Cách phát âm: Đọc như “uo”, chuyển từ âm sau /ʊ/ sang âm giữa /ə/.\n\nKhẩu hình miệng: \n\nKhi bắt đầu, môi mở khá tròn, hơi bè, hướng ra ngoài, mặt lưỡi đưa vào phía trong khoang miệng và hướng lên gần ngạc trên.\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Examples": [
+    {
+      "Phonetic": "/∫ʊə(r)/",
+      "Word": "sure"
+    },
+    {
+      "Phonetic": "/tʊə(r)/",
+      "Word": "tour"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/zkupoloqsyewyuqrcvkj.png",
+  "MouthShape": "Khi bắt đầu, môi mở khá tròn, hơi bè, hướng ra ngoài, mặt lưỡi đưa vào phía trong khoang miệng và hướng lên gần ngạc trên.\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "ʊə",
+  "Title": "Nguyên âm dài /ʊə/",
+  "Type": "Diphthongs",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715484152/ipaVideo/ue75ylawh2qzli5jur7z.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f1c747ba979b4287b05"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: đọc gần giống âm “P” của tiếng Việt.\n\nKhẩu hình miệng: hai môi chặn luồng không khí trong miệng sau đó bật ra. Cảm giác dây thanh quản rung nhẹ.",
+  "Examples": [
+    {
+      "Phonetic": "/pen/",
+      "Word": "pen"
+    },
+    {
+      "Phonetic": "/ˈkɒpi/",
+      "Word": "copy"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430522/ipaImage/dweu8ah9xtkp1ddyxb8y.png",
+  "MouthShape": "Khẩu hình miệng: hai môi chặn luồng không khí trong miệng sau đó bật ra. Cảm giác dây thanh quản rung nhẹ.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "p",
+  "Title": "Phụ âm /p/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f23747ba979b4287b06"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Đọc tương tự âm “B” trong tiếng Việt. \n\nKhẩu hình miệng: để hai môi chặn không khí từ trong miệng sau đó bật ra. Thanh quản rung nhẹ.",
+  "Examples": [
+    {
+      "Phonetic": "/bæk/",
+      "Word": "back"
+    },
+    {
+      "Phonetic": "/dʒɒb/",
+      "Word": "job"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/uzzexk60mizkg5e3ojmi.png",
+  "MouthShape": "Khẩu hình miệng: để hai môi chặn không khí từ trong miệng sau đó bật ra. Thanh quản rung nhẹ.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "b",
+  "Title": "Phụ âm /b/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f26747ba979b4287b07"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Đọc giống âm “T” trong tiếng Việt nhưng bật hơi mạnh hơn. \n\nKhẩu hình miệng: Khi phát âm, người học đặt đầu lưỡi dưới nướu. Khi bật luồng khí ra thì đầu lưỡi chạm vào răng cửa dưới. Hai răng khít chặt, mở luồng khí thoát ra, nhưng không rung dây thanh quản.",
+  "Examples": [
+    {
+      "Phonetic": "/ti:/",
+      "Word": "tea"
+    },
+    {
+      "Phonetic": "/taɪt/",
+      "Word": "tight"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/krtjdktjouoaueqkqbti.png",
+  "MouthShape": "Khẩu hình miệng: Khi phát âm, người học đặt đầu lưỡi dưới nướu. Khi bật luồng khí ra thì đầu lưỡi chạm vào răng cửa dưới. Hai răng khít chặt, mở luồng khí thoát ra, nhưng không rung dây thanh quản.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "t",
+  "Title": "Phụ âm /t/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f29747ba979b4287b08"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: giống âm /d/ tiếng Việt, vẫn bật hơi mạnh hơn.\n\nKhẩu hình miệng: đặt đầu lưỡi dưới nướu, khi luồng khí bật ra thì đầu lưỡi chạm vào răng cửa dưới. Và hai răng khít, mở ra luồng khí và tạo độ rung cho thanh quản. ",
+  "Examples": [
+    {
+      "Phonetic": "/deɪ/",
+      "Word": "day"
+    },
+    {
+      "Phonetic": "/ˈlædə(r)/",
+      "Word": "ladder"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/ges5hk0dd7osnpxuclbt.png",
+  "MouthShape": "Khẩu hình miệng: đặt đầu lưỡi dưới nướu, khi luồng khí bật ra thì đầu lưỡi chạm vào răng cửa dưới. Và hai răng khít, mở ra luồng khí và tạo độ rung cho thanh quản. Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "d",
+  "Title": "Phụ âm /d/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f2c747ba979b4287b09"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Cách đọc tương tự âm “CH”.\n\nKhẩu hình miệng: môi hơi tròn, khi nói phải chu ra về phía trước. Khi luồng khí thoát ra thì môi tròn nửa, lưỡi thẳng và chạm vào hàm dưới, để khí thoát ra ngoài trên bề mặt lưỡi mà không ảnh hưởng đến dây thanh.",
+  "Examples": [
+    {
+      "Phonetic": "/ʧɜːʧ/",
+      "Word": "church"
+    },
+    {
+      "Phonetic": "/mætʃ/",
+      "Word": "match"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/zzlyu9tnq9uyly8z2crz.png",
+  "MouthShape": "Khẩu hình miệng: môi hơi tròn, khi nói phải chu ra về phía trước. Khi luồng khí thoát ra thì môi tròn nửa, lưỡi thẳng và chạm vào hàm dưới, để khí thoát ra ngoài trên bề mặt lưỡi mà không ảnh hưởng đến dây thanh.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "t∫",
+  "Title": "Phụ âm /t∫/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f2f747ba979b4287b0a"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Phát âm giống /t∫/ nhưng có rung dây thanh quản.\n\nKhẩu hình miệng: Môi hơi tròn, chu về trước. Khi khí phát ra, môi nửa tròn, lưỡi thẳng, chạm hàm dưới để luồng khí thoát ra trên bề mặt lưỡi.",
+  "Examples": [
+    {
+      "Phonetic": "/eiʤ/",
+      "Word": "age"
+    },
+    {
+      "Phonetic": "/dʒɪm/",
+      "Word": "gym"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/dh0h50wdcwcq8b9ym4x3.png",
+  "MouthShape": "Khẩu hình miệng: Môi hơi tròn, chu về trước. Khi khí phát ra, môi nửa tròn, lưỡi thẳng, chạm hàm dưới để luồng khí thoát ra trên bề mặt lưỡi.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "dʒ",
+  "Title": "Phụ âm /dʒ/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f31747ba979b4287b0b"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Phát âm giống âm “K” của tiếng Việt nhưng bật hơi mạnh bằng cách nâng phần sau của lưỡi, chạm ngạc mềm, hạ thấp khi luồng khí mạnh bật ra và không tác động đến dây thanh.",
+  "Examples": [
+    {
+      "Phonetic": "/ki:/",
+      "Word": "key"
+    },
+    {
+      "Phonetic": "/sku:l/",
+      "Word": "school"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/fngrdbydhxv3tz4xlwye.png",
+  "MouthShape": "Phát âm giống âm “K” của tiếng Việt nhưng bật hơi mạnh bằng cách nâng phần sau của lưỡi, chạm ngạc mềm, hạ thấp khi luồng khí mạnh bật ra và không tác động đến dây thanh.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "k",
+  "Title": "Phụ âm /k/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f33747ba979b4287b0c"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: như âm “G” của tiếng Việt.\n\nKhẩu hình miệng: nâng phần sau của lưỡi, chạm ngạc mềm, hạ thấp khi luồng khí mạnh bật ra sao cho rung dây thanh.",
+  "Examples": [
+    {
+      "Phonetic": "/ɡet/",
+      "Word": "ɡet"
+    },
+    {
+      "Phonetic": "/ɡəʊst/",
+      "Word": "ghost"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/xmrlmhs0sxtevkdebpk4.png",
+  "MouthShape": "nâng phần sau của lưỡi, chạm ngạc mềm, hạ thấp khi luồng khí mạnh bật ra sao cho rung dây thanh.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "g",
+  "Title": "Phụ âm /g/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f36747ba979b4287b0d"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: tương tự “PH” trong tiếng Việt. \n\nKhẩu hình miệng: Khi phát âm, hàm trên chạm nhẹ vào môi dưới.",
+  "Examples": [
+    {
+      "Phonetic": "/fæt/",
+      "Word": "fat"
+    },
+    {
+      "Phonetic": "/ˈkɒfi/",
+      "Word": "coffee"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430523/ipaImage/nrqv1vbpbqbrjtkfxy4t.png",
+  "MouthShape": "Khi phát âm, hàm trên chạm nhẹ vào môi dưới.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "f",
+  "Title": "Phụ âm /f/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f3a747ba979b4287b0e"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Đọc như âm “V” trong tiếng Việt.\n\nKhẩu hình miệng: Khi phát âm, hàm trên sẽ chạm nhẹ vào môi dưới.",
+  "Examples": [
+    {
+      "Phonetic": "/vjuː/",
+      "Word": "view"
+    },
+    {
+      "Phonetic": "/muːv/",
+      "Word": "move"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430518/ipaImage/smqcwmf9myzpek4wxm0r.png",
+  "MouthShape": "Khi phát âm, hàm trên sẽ chạm nhẹ vào môi dưới.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "v",
+  "Title": "Phụ âm /v/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f3d747ba979b4287b0f"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: đặt đầu lưỡi ở giữa hai hàm răng, để luồng khí thoát ra giữa lưỡi và 2 hàm răng, thanh quản rung.",
+  "Examples": [
+    {
+      "Phonetic": "/ðɪs/",
+      "Word": "this"
+    },
+    {
+      "Phonetic": "/ˈʌðə(r)/",
+      "Word": "other"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430518/ipaImage/lnnztrkvqmvronl3xlpg.png",
+  "MouthShape": "đặt đầu lưỡi ở giữa hai hàm răng, để luồng khí thoát ra giữa lưỡi và 2 hàm răng, thanh quản rung.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "ð",
+  "Title": "Phụ âm /ð/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f41747ba979b4287b10"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: đặt đầu lưỡi ở giữa hai hàm răng, để luồng khí thoát ra giữa lưỡi và 2 hàm răng, thanh quản không rung.",
+  "Examples": [
+    {
+      "Phonetic": "/θɪn/",
+      "Word": "thin"
+    },
+    {
+      "Phonetic": "/pɑːθ/",
+      "Word": "path"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430518/ipaImage/dtlc6uuxp3ceayfb40lm.png",
+  "MouthShape": "đặt đầu lưỡi ở giữa hai hàm răng, để luồng khí thoát ra giữa lưỡi và 2 hàm răng, thanh quản không rung.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "θ",
+  "Title": "Phụ âm /θ/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f44747ba979b4287b11"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: như âm “S”.\n\nKhẩu hình miệng: để lưỡi đặt nhẹ lên hàm trên, ngạc mềm nâng, luồng khí thoát từ giữa mặt lưỡi và lợi nên không rung thanh quản.",
+  "Examples": [
+    {
+      "Phonetic": "/suːn/",
+      "Word": "soon"
+    },
+    {
+      "Phonetic": "/ˈsɪstə(r)/",
+      "Word": "sister"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/mdz9uyd7e4pugqlrpc7v.png",
+  "MouthShape": "để lưỡi đặt nhẹ lên hàm trên, ngạc mềm nâng, luồng khí thoát từ giữa mặt lưỡi và lợi nên không rung thanh quản.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "s",
+  "Title": "Phụ âm /s/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f47747ba979b4287b12"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: để lưỡi đặt nhẹ lên hàm trên, ngạc mềm nâng, luồng khí thoát từ giữa mặt lưỡi và lợi nhưng lại làm rung thanh quản.",
+  "Examples": [
+    {
+      "Phonetic": "/ˈzɪərəʊ/",
+      "Word": "zero"
+    },
+    {
+      "Phonetic": "/bʌz/",
+      "Word": "buzz"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/lcsmvgaozejswck9lo7u.png",
+  "MouthShape": "để lưỡi đặt nhẹ lên hàm trên, ngạc mềm nâng, luồng khí thoát từ giữa mặt lưỡi và lợi nhưng lại làm rung thanh quản.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "z",
+  "Title": "Phụ âm /z/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f49747ba979b4287b13"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Đọc như “uo”, chuyển từ âm sau /ʊ/ sang âm giữa /ə/.\n\nKhẩu hình miệng: \n\nKhi bắt đầu, môi mở khá tròn, hơi bè, hướng ra ngoài, mặt lưỡi đưa vào phía trong khoang miệng và hướng lên gần ngạc trên.\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Examples": [
+    {
+      "Phonetic": "/∫ʊə(r)/",
+      "Word": "sure"
+    },
+    {
+      "Phonetic": "/tʊə(r)/",
+      "Word": "tour"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/zkupoloqsyewyuqrcvkj.png",
+  "MouthShape": "Khi bắt đầu, môi mở khá tròn, hơi bè, hướng ra ngoài, mặt lưỡi đưa vào phía trong khoang miệng và hướng lên gần ngạc trên.\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "ʊə",
+  "Title": "Nguyên âm dài /ʊə/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f4b747ba979b4287b14"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Đọc như “uo”, chuyển từ âm sau /ʊ/ sang âm giữa /ə/.\n\nKhẩu hình miệng: \n\nKhi bắt đầu, môi mở khá tròn, hơi bè, hướng ra ngoài, mặt lưỡi đưa vào phía trong khoang miệng và hướng lên gần ngạc trên.\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Examples": [
+    {
+      "Phonetic": "/∫ʊə(r)/",
+      "Word": "sure"
+    },
+    {
+      "Phonetic": "/tʊə(r)/",
+      "Word": "tour"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430521/ipaImage/zkupoloqsyewyuqrcvkj.png",
+  "MouthShape": "Khi bắt đầu, môi mở khá tròn, hơi bè, hướng ra ngoài, mặt lưỡi đưa vào phía trong khoang miệng và hướng lên gần ngạc trên.\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "ʊə",
+  "Title": "Nguyên âm dài /ʊə/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f4e747ba979b4287b15"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: môi chu ra, hướng về phía trước và môi tròn. Mặt lưỡi chạm lợi hàm trên và nâng phần phía trước của lưỡi lên.",
+  "Examples": [
+    {
+      "Phonetic": "/∫ʊə(r)/",
+      "Word": "sure"
+    },
+    {
+      "Phonetic": "/ʃɪp/",
+      "Word": "ship"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/epu1d5f6vdhxnb3oqugh.png",
+  "MouthShape": "môi chu ra, hướng về phía trước và môi tròn. Mặt lưỡi chạm lợi hàm trên và nâng phần phía trước của lưỡi lên.\n\nNgay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "∫",
+  "Title": "Phụ âm /∫/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f50747ba979b4287b16"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: môi chu ra, hướng về phía trước, tròn môi. Để mặt lưỡi chạm lợi hàm trên và nâng phần phía trước của lưỡi lên và đọc rung thanh quản.",
+  "Examples": [
+    {
+      "Phonetic": "/’pleʒə(r)/",
+      "Word": "pleasure"
+    },
+    {
+      "Phonetic": "/ˈvɪʒn/",
+      "Word": "vision"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/rnbnnccm07qgsttcptqa.png",
+  "MouthShape": "môi chu ra, hướng về phía trước, tròn môi. Để mặt lưỡi chạm lợi hàm trên và nâng phần phía trước của lưỡi lên và đọc rung thanh quản.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "ʒ",
+  "Title": "Phụ âm /ʒ/  ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f53747ba979b4287b17"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: giống âm “M” trong tiếng Việt.\n\nKhẩu hình miệng: hai môi ngậm lại, luồng khí thoát ra bằng mũi.",
+  "Examples": [
+    {
+      "Phonetic": "/ˈmʌn.i/",
+      "Word": "money"
+    },
+    {
+      "Phonetic": "/miːn/",
+      "Word": "mean"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430519/ipaImage/tj0ygr4xwupexvfdz6zd.png",
+  "MouthShape": "hai môi ngậm lại, luồng khí thoát ra bằng mũi.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "m",
+  "Title": "Phụ âm /m/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f55747ba979b4287b18"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: đọc như âm “N” nhưng khi đọc thì môi hé, đầu lưỡi chạm lợi hàm trên, chặn để khí phát ra từ mũi.",
+  "Examples": [
+    {
+      "Phonetic": "/naɪs/",
+      "Word": "nice"
+    },
+    {
+      "Phonetic": "/sʌn/",
+      "Word": "sun"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/qlytorxliyktpxsabhcd.png",
+  "MouthShape": "đọc như âm “N” nhưng khi đọc thì môi hé, đầu lưỡi chạm lợi hàm trên, chặn để khí phát ra từ mũi.Ngay sau đó, miệng hơi mở ra, đưa lưỡi lùi về giữa khoang miệng.",
+  "Phonetic": "n",
+  "Title": "Phụ âm /n/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715432296/ipaVideo/vz0m4g0aykj26k0uvbrp.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f58747ba979b4287b19"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: khi phát âm thì chặn khí ở lưỡi, môi hé, khí phát ra từ mũi, môi hé, thanh quản rung, phần sau của lưỡi nâng lên, chạm vào ngạc mềm.",
+  "Examples": [
+    {
+      "Phonetic": "/riŋ/",
+      "Word": "ring"
+    },
+    {
+      "Phonetic": "/lɒŋ/",
+      "Word": "long"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/y1ybzdtki17ylmjuamvz.png",
+  "MouthShape": "khi phát âm thì chặn khí ở lưỡi, môi hé, khí phát ra từ mũi, môi hé, thanh quản rung, phần sau của lưỡi nâng lên, chạm vào ngạc mềm.",
+  "Phonetic": "ŋ",
+  "Title": "Phụ âm /ŋ/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715445278/ipaVideo/pi8zingoqcoeibqlkn8c.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f5b747ba979b4287b1a"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: đọc như âm “H” tiếng Việt.\n\nKhẩu hình miệng: môi hé nửa, lưỡi hạ thấp để khí thoát ra, thanh quản không rung.",
+  "Examples": [
+    {
+      "Phonetic": "/hɒt/",
+      "Word": "hot"
+    },
+    {
+      "Phonetic": "/bɪˈhaɪnd/",
+      "Word": "behind"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/ieamadf1981ckvzh0iuv.png",
+  "MouthShape": "môi hé nửa, lưỡi hạ thấp để khí thoát ra, thanh quản không rung.",
+  "Phonetic": "h",
+  "Title": "Phụ âm /h/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715445278/ipaVideo/pi8zingoqcoeibqlkn8c.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f5e747ba979b4287b1b"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Khẩu hình miệng: Cong lưỡi từ từ, chạm răng hàm trên, thanh quản rung, môi mở rộng hoàn toàn, đầu lưỡi cong lên từ từ và đặt vào môi hàm trên.",
+  "Examples": [
+    {
+      "Phonetic": "/laɪt/",
+      "Word": "light"
+    },
+    {
+      "Phonetic": "/fiːl/",
+      "Word": "feel"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430520/ipaImage/wc4pfvsbwkidcvcaik4n.png",
+  "MouthShape": "Cong lưỡi từ từ, chạm răng hàm trên, thanh quản rung, môi mở rộng hoàn toàn, đầu lưỡi cong lên từ từ và đặt vào môi hàm trên.",
+  "Phonetic": "l",
+  "Title": "Phụ âm /l/",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715445278/ipaVideo/pi8zingoqcoeibqlkn8c.mp4"
+},
+{
+  "_id": {
+    "$oid": "663f7f61747ba979b4287b1c"
+  },
+  "Audio": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1713772888/ipas/g4cx40vtluf6izajgioe.mp3",
+  "Description": "Cách phát âm: Đọc khác âm “R” tiếng Việt.\n\nKhẩu hình miệng: Khi phát âm, người học hãy cong lưỡi vào trong, môi tròn, hơi chu về phía trước. Khi luồng khí thoát ra thì lưỡi thả lỏng, môi tròn mở rộng.",
+  "Examples": [
+    {
+      "Phonetic": "/∫ʊə(r)/",
+      "Word": "sure"
+    },
+    {
+      "Phonetic": "/tʊə(r)/",
+      "Word": "tour"
+    }
+  ],
+  "Image": "https://res.cloudinary.com/dpmnfl8xx/image/upload/v1715430518/ipaImage/vvemyljyhkjcnxhq4wcm.png",
+  "MouthShape": "Khi phát âm, người học hãy cong lưỡi vào trong, môi tròn, hơi chu về phía trước. Khi luồng khí thoát ra thì lưỡi thả lỏng, môi tròn mở rộng.",
+  "Phonetic": "r",
+  "Title": "Phụ âm /r/ ",
+  "Type": "Consonants",
+  "Video": "https://res.cloudinary.com/dpmnfl8xx/video/upload/v1715445278/ipaVideo/pi8zingoqcoeibqlkn8c.mp4"
+}]
